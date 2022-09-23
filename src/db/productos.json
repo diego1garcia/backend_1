@@ -1,0 +1,20 @@
+[
+    {
+       "title": "Producto 1",
+       "price": 300,
+       "thumbnail": "httppasjdaskjl",
+       "id": 1
+    },
+    {
+       "title": "Producto 2 MODD",
+       "price": 1000,
+       "thumbnail": "httppasjdaskjl",
+       "id": 2
+    },
+    {
+       "title": "Producto 3",
+       "price": 700,
+       "thumbnail": "httppasjdaskjl",
+       "id": 3
+    }
+ ]
